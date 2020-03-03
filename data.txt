@@ -1,4 +1,5 @@
 StateName, PostalCode, ElectoralVotes
+Virginia, VA, 14
 Washington, WA, 12
 West Virginia, WV, 5
 Wisconsin, WI, 10

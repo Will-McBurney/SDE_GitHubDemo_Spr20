@@ -1,3 +1,4 @@
+StateName, Code, ElectoralVotes
 West Virginia, WV, 4
 Wisconsin, WI, 10
 Wyoming, WY, 3

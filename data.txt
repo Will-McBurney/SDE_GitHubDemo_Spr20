@@ -1,3 +1,5 @@
+This is a state data file 
+
 StateName, PostalCode, ElectoralVotes
 Virginia, VA, 14
 Washington, WA, 12

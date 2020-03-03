@@ -1,2 +1,5 @@
 StateName, PostalCode, ElectoralVotes
-West Virginia, WV, 6
+Washington, WA, 12
+West Virginia, WV, 5
+Wisconsin, WI, 10
+Wyoming, WY, 3

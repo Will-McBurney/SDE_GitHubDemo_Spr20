@@ -1,4 +1,6 @@
-
+/**
+ * @author:That bald guy
+ */
 public class InClass {
 		
 	public static boolean check(String test) {

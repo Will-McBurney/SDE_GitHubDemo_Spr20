@@ -1,4 +1,5 @@
 StateName, PostalCode, ElectoralVotes
+South Carolina, SC, 12
 Virginia, VA, 14
 Washington, WA, 12
 West Virginia, WV, 5

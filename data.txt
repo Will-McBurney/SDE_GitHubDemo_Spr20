@@ -1,1 +1,2 @@
+StateName, PostalCode, ElectoralVotes
 West Virginia, WV, 6

@@ -1,3 +1,4 @@
+Washington, WA, 12
 West Virginia, WV, 4
 Wisconsin, WI, 10
 Wyoming, WY, 3
